@@ -1,5 +1,5 @@
 # Social-Media-Fake-News-Detection
-Overview
+3 Overview
 
 This project Social Media Fake News Detection is a project aimed at detecting fake news on social media platforms. The repository contains a Jupyter Notebook that processes datasets of true and fake news articles to build a classification system. The code is implemented in Python using Google Colab, focusing on loading and inspecting news datasets as a foundation for fake news detection.
 
